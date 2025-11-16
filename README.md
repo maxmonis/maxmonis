@@ -12,4 +12,5 @@ In my spare time I build websites for fun and to broaden my horizons. I'm fluent
 - 🌱 What I’m learning more about:
   - **Backend Programming**: I really enjoy full stack engineering
   - **GraphQL and WebSockets**: each invaluable for various use cases
-  - **Next.js**: both the App Router and the Pages Router
+  - **Next.js**: I've used `pages` for years and `app` is great
+  - **TanStack Start**: I built a simple [demo](https://github.com/maxmonis/Todo) to try it out
